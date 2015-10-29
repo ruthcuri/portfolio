@@ -136,7 +136,6 @@ nav{
 border: 3px dashed #19deb1; 
 background: white;
 font-family: 'Wire One', sans-serif;
-height: 100vh;
 margin:2%;
 background-attachment: fixed;
 }
@@ -196,6 +195,10 @@ margin:2%;
     #proyectos{
         height: 80vh;
     }
+    #sobre-mi{
+        height: 100vh;
+    }
+
 }
 .galeria {
     width: 90%;
